@@ -1,5 +1,5 @@
 import './style.css';
-import './clean-code/07-tarea';
+import './code-smells/02-low-coupling';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `

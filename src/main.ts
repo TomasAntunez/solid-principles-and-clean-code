@@ -1,5 +1,5 @@
 import './style.css';
-import './clean-code/06-classes-b';
+import './clean-code/07-tarea';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `

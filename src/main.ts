@@ -1,5 +1,5 @@
 import './style.css';
-import './code-smells/02-low-coupling';
+import './solid/03-liskov-a';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `

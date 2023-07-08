@@ -1,5 +1,5 @@
 import './style.css';
-import './solid/03-liskov-a';
+import './solid/05-dependency-a';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
